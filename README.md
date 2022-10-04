@@ -6,4 +6,4 @@ Judul Project "Implementasi Logika Fuzzy pada Alat Pengering Lada Otomatis"
 ### NIM   : 09011182025018
 ### Kelas : SK5B
 
-link video pemaparan project 
+link video pemaparan project https://youtu.be/-d-fZyQKrXw
